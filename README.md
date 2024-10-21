@@ -1,10 +1,8 @@
 
-# Hello, I'm CHANGEME
+# Hello, I'm KIONNE
 <a href="https://linkedin.com/in/kionne-smith/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Certified cybersecurity professional embarking on an exciting journey to become a SOC Analyst Tier 1. Join me as I dive deeper into the world of cybersecurity and build the knowledge needed to defend against modern cyber threats!
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
