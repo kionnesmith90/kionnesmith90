@@ -27,6 +27,19 @@ Join me as I dive deeper into the world of cybersecurity and build the knowledge
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
 
+### Scripting Language
+<div>
+<img src="https://img.shields.io/badge/-Linux%20Bash%20Shell-000000?&style=for-the-badge&logo=linux&logoColor=white" />
+</div>
+
+<div>
+<img src="https://img.shields.io/badge/-SQL-000000?&style=for-the-badge&logo=sqlite&logoColor=white" />
+</div>
+
+<div>
+<img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
+</div>
+
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
