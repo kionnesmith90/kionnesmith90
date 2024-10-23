@@ -13,7 +13,7 @@ Join me as I dive deeper into the world of cybersecurity and build the knowledge
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Commands in Linux Bash shell          | <a href="https://github.com/kionnesmith90/Linux-Bash-shell">Linux Bash shell</a>| 
-| Performing SQL queries          | <a href="https://github.com/kionnesmith90/Linux-Bash-shell">Linux Bash shell</a>| 
+| Performing SQL queries          | <a href="https://github.com/kionnesmith90/SQL-queries">SQL queries</a>| 
 
 ## Tools
 
@@ -47,3 +47,4 @@ Join me as I dive deeper into the world of cybersecurity and build the knowledge
 
 ## Projects
 - <a href="https://github.com/kionnesmith90/Linux-Bash-shell">Linux Bash shell</a>
+- <a href="https://github.com/kionnesmith90/SQL-queries">SQL queries</a>
