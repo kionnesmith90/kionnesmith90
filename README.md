@@ -13,8 +13,9 @@ Join me as I dive deeper into the world of cybersecurity and build the knowledge
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Commands in Linux Bash shell          | <a href="https://github.com/kionnesmith90/Linux-Bash-shell">Linux Bash shell</a>| 
-| Performing SQL queries          | <a href="https://github.com/kionnesmith90/SQL-queries">SQL queries</a>| 
-
+| Performing SQL queries          | <a href="https://github.com/kionnesmith90/SQL-queries">SQL queries</a>|
+| Packet Analyzing with Wireshark        | <a href="https://github.com/kionnesmith90/Analyze-packet-with-Wireshark">Analyze packets w/ Wireshark </a>| 
+| Performing Splunk queries        | <a href="https://github.com/kionnesmith90/Splunk-Queries)">Performing Splunk queries </a>| 
 ## Tools
 
 ### Network
@@ -29,16 +30,9 @@ Join me as I dive deeper into the world of cybersecurity and build the knowledge
 
 ### Scripting Language
 <div>
-<img src="https://img.shields.io/badge/-Linux%20Bash%20Shell-000000?&style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/-Linux%20Bash%20Shell-000000?&style=for-the-badge&logo=linux&logoColor=white" /> <img src="https://img.shields.io/badge/-SQL-000000?&style=for-the-badge&logo=sqlite&logoColor=white" /> <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
 </div>
 
-<div>
-<img src="https://img.shields.io/badge/-SQL-000000?&style=for-the-badge&logo=sqlite&logoColor=white" />
-</div>
-
-<div>
-<img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
-</div>
 
 ## Certifications
 <div>
@@ -48,3 +42,5 @@ Join me as I dive deeper into the world of cybersecurity and build the knowledge
 ## Projects
 - <a href="https://github.com/kionnesmith90/Linux-Bash-shell">Linux Bash shell</a>
 - <a href="https://github.com/kionnesmith90/SQL-queries">SQL queries</a>
+- <a href="https://github.com/kionnesmith90/Analyze-packet-with-Wireshark">Analyze packets w/ Wireshark </a>
+- <a href="https://github.com/kionnesmith90/Splunk-Queries)">Performing Splunk queries </a>
