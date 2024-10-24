@@ -43,4 +43,4 @@ Join me as I dive deeper into the world of cybersecurity and build the knowledge
 - <a href="https://github.com/kionnesmith90/Linux-Bash-shell">Linux Bash shell</a>
 - <a href="https://github.com/kionnesmith90/SQL-queries">SQL queries</a>
 - <a href="https://github.com/kionnesmith90/Analyze-packet-with-Wireshark">Analyze packets w/ Wireshark </a>
-- <a href="https://github.com/kionnesmith90/Splunk-Queries)">Performing Splunk queries </a>
+- <a href="https://github.com/kionnesmith90/Splunk-Queries">Performing Splunk queries </a>
