@@ -15,7 +15,7 @@ Join me as I dive deeper into the world of cybersecurity and build the knowledge
 | Commands in Linux Bash shell          | <a href="https://github.com/kionnesmith90/Linux-Bash-shell">Linux Bash shell</a>| 
 | Performing SQL queries          | <a href="https://github.com/kionnesmith90/SQL-queries">SQL queries</a>|
 | Packet Analyzing with Wireshark        | <a href="https://github.com/kionnesmith90/Analyze-packet-with-Wireshark">Analyze packets w/ Wireshark </a>| 
-| Performing Splunk queries        | <a href="https://github.com/kionnesmith90/Splunk-Queries)">Performing Splunk queries </a>| 
+| Performing Splunk queries        | <a href="https://github.com/kionnesmith90/Splunk-Queries">Performing Splunk queries </a>| 
 ## Tools
 
 ### Network
