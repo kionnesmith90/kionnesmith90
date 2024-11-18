@@ -5,7 +5,7 @@
 Certified cybersecurity professional embarking on an exciting journey to become a SOC Analyst Tier 1.
 ## Objective
 
-Join me as I dive deeper into the world of cybersecurity and build the knowledge needed to defend against modern cyber threats!
+Join me as I dive deeper into the world of cybersecurity and build the knowledge needed to defend against modern cyber threats! 
 
 
 ## Skills
@@ -16,6 +16,7 @@ Join me as I dive deeper into the world of cybersecurity and build the knowledge
 | Performing SQL queries          | <a href="https://github.com/kionnesmith90/SQL-queries">SQL queries</a>|
 | Packet Analyzing with Wireshark        | <a href="https://github.com/kionnesmith90/Analyze-packet-with-Wireshark">Analyze packets w/ Wireshark </a>| 
 | Performing Splunk queries        | <a href="https://github.com/kionnesmith90/Splunk-Queries">Performing Splunk queries </a>| 
+| DanaBot Lab        | <a href="https://github.com/kionnesmith90/DanaBot-Lab-/tree/main">DanaBot Lab </a>| 
 ## Tools
 
 ### Network
