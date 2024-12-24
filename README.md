@@ -12,11 +12,12 @@ Join me as I dive deeper into the world of cybersecurity and build the knowledge
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Commands in Linux Bash shell          | <a href="https://github.com/kionnesmith90/Linux-Bash-shell">Linux Bash shell</a>| 
-| Performing SQL queries          | <a href="https://github.com/kionnesmith90/SQL-queries">SQL queries</a>|
+| Revil Lab        | <a href="https://github.com/kionnesmith90/Revil-Lab">Revil Lab </a>|
+| DanaBot Lab        | <a href="https://github.com/kionnesmith90/DanaBot-Lab-/tree/main">DanaBot Lab </a>|
+| Performing Splunk queries        | <a href="https://github.com/kionnesmith90/Splunk-Queries">Performing Splunk queries </a>|
 | Packet Analyzing with Wireshark        | <a href="https://github.com/kionnesmith90/Analyze-packet-with-Wireshark">Analyze packets w/ Wireshark </a>| 
-| Performing Splunk queries        | <a href="https://github.com/kionnesmith90/Splunk-Queries">Performing Splunk queries </a>| 
-| DanaBot Lab        | <a href="https://github.com/kionnesmith90/DanaBot-Lab-/tree/main">DanaBot Lab </a>| 
+| Performing SQL queries          | <a href="https://github.com/kionnesmith90/SQL-queries">SQL queries</a>|
+| Commands in Linux Bash shell          | <a href="https://github.com/kionnesmith90/Linux-Bash-shell">Linux Bash shell</a>| 
 ## Tools
 
 ### Network
@@ -46,3 +47,4 @@ Join me as I dive deeper into the world of cybersecurity and build the knowledge
 - <a href="https://github.com/kionnesmith90/Analyze-packet-with-Wireshark">Analyze packets w/ Wireshark </a>
 - <a href="https://github.com/kionnesmith90/Splunk-Queries">Performing Splunk queries </a>
 - <a href="https://github.com/kionnesmith90/DanaBot-Lab-/tree/main">DanaBot Lab </a>
+- <a href="https://github.com/kionnesmith90/Revil-Lab">Revil Lab </a>
