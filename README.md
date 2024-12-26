@@ -54,4 +54,4 @@ Join me as I dive deeper into the world of cybersecurity and build the knowledge
 - <a href="https://github.com/kionnesmith90/Splunk-Queries">Performing Splunk queries </a>
 - <a href="https://github.com/kionnesmith90/DanaBot-Lab-/tree/main">DanaBot Lab </a>
 - <a href="https://github.com/kionnesmith90/Revil-Lab">Revil Lab </a>
-- <a href="https://github.com/kionnesmith90/Amadey-Lab/tree/main">Revil Lab </a>
+- <a href="https://github.com/kionnesmith90/Amadey-Lab/tree/main">Amadey Lab </a>
