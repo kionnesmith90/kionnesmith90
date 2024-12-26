@@ -36,6 +36,11 @@ Join me as I dive deeper into the world of cybersecurity and build the knowledge
 <img src="https://img.shields.io/badge/-Linux%20Bash%20Shell-000000?&style=for-the-badge&logo=linux&logoColor=white" /> <img src="https://img.shields.io/badge/-SQL-000000?&style=for-the-badge&logo=sqlite&logoColor=white" /> <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
 </div>
 
+### Memory Forensics
+<div>
+<img src="https://img.shields.io/badge/-Volatility3-ff5c33?&style=for-the-badge" />
+</div>
+
 
 ## Certifications
 <div>
