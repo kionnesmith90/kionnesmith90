@@ -12,6 +12,7 @@ Join me as I dive deeper into the world of cybersecurity and build the knowledge
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Directory Backup Lab001        | <a href="https://github.com/kionnesmith90/Lab-001-Bash-Script-Crontabs">Lab001 </a>|
 | Amadey Lab        | <a href="https://github.com/kionnesmith90/Amadey-Lab/tree/main">Amadey Lab </a>|
 | Revil Lab        | <a href="https://github.com/kionnesmith90/Revil-Lab">Revil Lab </a>|
 | DanaBot Lab        | <a href="https://github.com/kionnesmith90/DanaBot-Lab-/tree/main">DanaBot Lab </a>|
@@ -55,3 +56,4 @@ Join me as I dive deeper into the world of cybersecurity and build the knowledge
 - <a href="https://github.com/kionnesmith90/DanaBot-Lab-/tree/main">DanaBot Lab </a>
 - <a href="https://github.com/kionnesmith90/Revil-Lab">Revil Lab </a>
 - <a href="https://github.com/kionnesmith90/Amadey-Lab/tree/main">Amadey Lab </a>
+- <a href="https://github.com/kionnesmith90/Lab-001-Bash-Script-Crontabs">Lab001 </a>
