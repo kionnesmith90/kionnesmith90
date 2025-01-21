@@ -12,6 +12,7 @@ Join me as I dive deeper into the world of cybersecurity and build the knowledge
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Create AD User Script with Powershell          | <a href="https://github.com/kionnesmith90/Create-ADUser-script-Powershell-/tree/main">Create AD User Script with Powershell </a>| 
 | Directory Backup Lab001        | <a href="https://github.com/kionnesmith90/Lab-001-Bash-Script-Crontabs">Lab001 </a>|
 | Amadey Lab        | <a href="https://github.com/kionnesmith90/Amadey-Lab/tree/main">Amadey Lab </a>|
 | Revil Lab        | <a href="https://github.com/kionnesmith90/Revil-Lab">Revil Lab </a>|
@@ -20,6 +21,7 @@ Join me as I dive deeper into the world of cybersecurity and build the knowledge
 | Packet Analyzing with Wireshark        | <a href="https://github.com/kionnesmith90/Analyze-packet-with-Wireshark">Analyze packets w/ Wireshark </a>| 
 | Performing SQL queries          | <a href="https://github.com/kionnesmith90/SQL-queries">SQL queries</a>|
 | Commands in Linux Bash shell          | <a href="https://github.com/kionnesmith90/Linux-Bash-shell">Linux Bash shell</a>| 
+
 ## Tools
 
 ### Network
@@ -57,3 +59,4 @@ Join me as I dive deeper into the world of cybersecurity and build the knowledge
 - <a href="https://github.com/kionnesmith90/Revil-Lab">Revil Lab </a>
 - <a href="https://github.com/kionnesmith90/Amadey-Lab/tree/main">Amadey Lab </a>
 - <a href="https://github.com/kionnesmith90/Lab-001-Bash-Script-Crontabs">Lab001 </a>
+- <a href="https://github.com/kionnesmith90/Create-ADUser-script-Powershell-/tree/main">Create AD User Script with Powershell </a>
