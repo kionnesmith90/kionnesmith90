@@ -12,6 +12,7 @@ Join me as I dive deeper into the world of cybersecurity and build the knowledge
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Tryhackme Juicy Details          | <a href="https://github.com/kionnesmith90/Tryhackme-Juicy-Details">Tryhackme Juicy Details </a>| 
 | Create AD User Script with Powershell          | <a href="https://github.com/kionnesmith90/Create-ADUser-script-Powershell-/tree/main">Create AD User Script with Powershell </a>| 
 | Directory Backup Lab001        | <a href="https://github.com/kionnesmith90/Lab-001-Bash-Script-Crontabs">Lab001 </a>|
 | Amadey Lab        | <a href="https://github.com/kionnesmith90/Amadey-Lab/tree/main">Amadey Lab </a>|
@@ -60,3 +61,4 @@ Join me as I dive deeper into the world of cybersecurity and build the knowledge
 - <a href="https://github.com/kionnesmith90/Amadey-Lab/tree/main">Amadey Lab </a>
 - <a href="https://github.com/kionnesmith90/Lab-001-Bash-Script-Crontabs">Lab001 </a>
 - <a href="https://github.com/kionnesmith90/Create-ADUser-script-Powershell-/tree/main">Create AD User Script with Powershell </a>
+- <a href="https://github.com/kionnesmith90/Tryhackme-Juicy-Details">Tryhackme Juicy Details </a>
