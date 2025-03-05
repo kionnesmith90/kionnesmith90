@@ -22,7 +22,7 @@ Join me as I dive deeper into the world of cybersecurity and build the knowledge
 | Performing Splunk queries        | <a href="https://github.com/kionnesmith90/Splunk-Queries">Performing Splunk queries </a>|
 | Packet Analyzing with Wireshark        | <a href="https://github.com/kionnesmith90/Analyze-packet-with-Wireshark">Analyze packets w/ Wireshark </a>| 
 | Performing SQL queries          | <a href="https://github.com/kionnesmith90/SQL-queries">SQL queries</a>|
-| Commands in Linux Bash shell          | <a href="https://github.com/kionnesmith90/Linux-Bash-shell">Linux Bash shell</a>| 
+| Commands in Linux          | <a href="https://github.com/kionnesmith90/Linux-Bash-shell">Linux</a>| 
 
 ## Tools
 
@@ -53,7 +53,7 @@ Join me as I dive deeper into the world of cybersecurity and build the knowledge
 </div>
 
 ## Projects
-- <a href="https://github.com/kionnesmith90/Linux-Bash-shell">Linux Bash shell</a>
+- <a href="https://github.com/kionnesmith90/Linux-Bash-shell">Linux Commands</a>
 - <a href="https://github.com/kionnesmith90/SQL-queries">SQL queries</a>
 - <a href="https://github.com/kionnesmith90/Analyze-packet-with-Wireshark">Analyze packets w/ Wireshark </a>
 - <a href="https://github.com/kionnesmith90/Splunk-Queries">Performing Splunk queries </a>
