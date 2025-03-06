@@ -12,6 +12,7 @@ Join me as I dive deeper into the world of cybersecurity and build the knowledge
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Nonyx-Blue-Team-Lab         | <a href="https://github.com/kionnesmith90/Nonyx---Blue-Team-Lab/tree/main">Nonyx-Blue-Team-Lab  </a>| 
 | Cerulear-Blue-Team-Lab          | <a href="https://github.com/kionnesmith90/Cerulear-Blue-Team-Lab/tree/main">Cerulear-Blue-Team-Lab  </a>| 
 | Tryhackme Juicy Details          | <a href="https://github.com/kionnesmith90/Tryhackme-Juicy-Details">Tryhackme Juicy Details </a>| 
 | Create AD User Script with Powershell          | <a href="https://github.com/kionnesmith90/Create-ADUser-script-Powershell-/tree/main">Create AD User Script with Powershell </a>| 
@@ -63,4 +64,5 @@ Join me as I dive deeper into the world of cybersecurity and build the knowledge
 - <a href="https://github.com/kionnesmith90/Lab-001-Bash-Script-Crontabs">Lab001 </a>
 - <a href="https://github.com/kionnesmith90/Create-ADUser-script-Powershell-/tree/main">Create AD User Script with Powershell </a>
 - <a href="https://github.com/kionnesmith90/Tryhackme-Juicy-Details">Tryhackme Juicy Details </a>
--  <a href="https://github.com/kionnesmith90/Cerulear-Blue-Team-Lab/tree/main">Cerulear-Blue-Team-Lab  </a> 
+- <a href="https://github.com/kionnesmith90/Cerulear-Blue-Team-Lab/tree/main">Cerulear-Blue-Team-Lab  </a>
+- <a href="https://github.com/kionnesmith90/Nonyx---Blue-Team-Lab/tree/main">Nonyx-Blue-Team-Lab  </a>
