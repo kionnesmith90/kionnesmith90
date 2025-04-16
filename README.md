@@ -48,6 +48,11 @@ Join me as I dive deeper into the world of cybersecurity and build the knowledge
 <img src="https://img.shields.io/badge/-Volatility3-ff5c33?&style=for-the-badge" />
 </div>
 
+### Endpoint Forensics
+<div>
+<img src="https://img.shields.io/badge/-Jadx-ff5c33?&style=for-the-badge" />
+<img src="https://img.shields.io/badge/-ALEAPP-ff5c33?&style=for-the-badge" />    
+</div>
 
 ## Certifications
 <div>
