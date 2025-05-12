@@ -7,9 +7,9 @@ Certified cybersecurity professional embarking on an exciting journey to become 
 
 Join me as I dive deeper into the world of cybersecurity and build the knowledge needed to defend against modern cyber threats! 
 
-## Skills
+## Labs
 
-| Skill                                         | Associated Project         |
+| Lab Title                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Datacom-Risk-Assessment-Lab       | <a href="https://github.com/kionnesmith90/Datacom-Risk-Assessment-Lab-/tree/main">Datacom-Risk-Assessment-Lab   </a>|
 | AndroidBreach-Lab        | <a href="https://github.com/kionnesmith90/AndroidBreach-Lab">AndroidBreach-Lab   </a>| 
