@@ -43,9 +43,9 @@ Join me as I dive deeper into the world of cybersecurity and build the knowledge
 <img src="https://img.shields.io/badge/-Linux%20Bash%20Shell-000000?&style=for-the-badge&logo=linux&logoColor=white" /> <img src="https://img.shields.io/badge/-SQL-000000?&style=for-the-badge&logo=sqlite&logoColor=white" /> <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" /> <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=PowerShell&logoColor=white" />
 </div>
 
-### Memory Forensics
+### Digital Forensics
 <div>
-<img src="https://img.shields.io/badge/-Volatility3-ff5c33?&style=for-the-badge" />
+<img src="https://img.shields.io/badge/-FTK%20Imager-ff5c33?&#x26;style=for-the-badge">
 </div>
 
 ### Endpoint Forensics
@@ -53,6 +53,12 @@ Join me as I dive deeper into the world of cybersecurity and build the knowledge
 <img src="https://img.shields.io/badge/-Jadx-ff5c33?&style=for-the-badge" />
 <img src="https://img.shields.io/badge/-ALEAPP-ff5c33?&style=for-the-badge" />    
 </div>
+
+### Memory Forensics
+<div>
+<img src="https://img.shields.io/badge/-Volatility3-ff5c33?&style=for-the-badge" />
+</div>
+
 
 ## Certifications
 <div>
